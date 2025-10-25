@@ -27,4 +27,3 @@ app.include_router(upload_router)
 @app.get("/")
 def root():
     return {"message": "Malware Detection API is running"}
-q
