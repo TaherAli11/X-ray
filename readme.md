@@ -153,10 +153,7 @@ backend/
 ### 1 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/malware-visualizer-api.git
-cd malware-visualizer-api/backend
-
-
+cd backend
 ```
 
 
