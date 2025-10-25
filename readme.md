@@ -191,7 +191,7 @@ uvicorn app.main:app --reload
 The model (model.h5) is a Convolutional Neural Network (CNN) trained on images generated from binary files.
 ### Architecture Overview
 
-- Input layer: 256×256 RGB image
+- Input layer: 256×256  image
  
 - Convolutional layers: extract local byte-structure patterns
 
